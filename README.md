@@ -1,4 +1,4 @@
-  
+#  Languages and Tools
 
 ![image](https://github.com/yathework/yathework/assets/74550199/1ed43672-032d-4555-a49c-527eccd48bac)
 ![image](https://github.com/yathework/yathework/assets/74550199/4110e966-b5d4-400c-b0c6-df4524b6cfe4)
@@ -18,16 +18,11 @@
 
  
 
-
-
- 
-
    
 ![Альтернативный текст](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)   
 
 
 <!--
-
 **yathework/yathework** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
