@@ -1,4 +1,3 @@
-#  Languages and Tools
 
 ![image](https://github.com/yathework/yathework/assets/74550199/1ed43672-032d-4555-a49c-527eccd48bac)
 ![image](https://github.com/yathework/yathework/assets/74550199/4110e966-b5d4-400c-b0c6-df4524b6cfe4)
