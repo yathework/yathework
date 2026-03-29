@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=ff2d50&center=true&vCenter=true&width=500&lines=A+Developer+%26+Open-Source+Enthusiast;Full-Stack+Web+And+App+Developer;Experienced+UI%2FUX+Designer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yathework&label=Profile%20views&color=0e75b6&style=flat" alt="yathework" />
-</p>
-
 <!-- Navigation badges -->
 <p align="center">
   <a href="https://github.com/yathework" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -53,3 +48,10 @@
   <li>Contribute more to open-source projects</li>
 </ul>
 </details>
+
+
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yathework&label=Profile%20views&color=FF0070&style=flat" alt="yathework" />
+</p>
+
