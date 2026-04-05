@@ -32,9 +32,9 @@
 <details>
 <summary><h2>📊 Stats and Activity</h2></summary>
 <br>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yathework&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yathework&theme=solarized_dark)
+ 
 </details>
 
 <!-- Goals & Tasks -->
